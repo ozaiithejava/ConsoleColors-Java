@@ -22,3 +22,4 @@ public class ConsoleColors {
     public static String applyColor(String text, String color) {
         return color + text + RESET;
     }
+  }
